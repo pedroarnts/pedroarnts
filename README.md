@@ -42,7 +42,7 @@ Cada repositório tem um README com contexto, método, resultados e como reprodu
 ## Formação
 
 - Administração — UNIFEOB (2021–2025)
-- Analista de Dados — EBAC (em andamento)
+- Analista de Dados — EBAC (2026)
 
 ## Contato
 
