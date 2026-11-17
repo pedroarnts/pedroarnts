@@ -7,14 +7,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-arantes-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:pedroaranoliveira@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail"></a>
-</p>
 
 ---
 
 ## Sobre
 
-Sou formado em Administração e atuo na transição para a área de dados, com bagagem em rotinas administrativas e no SAP. Isso me ajuda a entender de onde os dados vêm dentro de uma empresa e a transformar uma pergunta de negócio em uma análise que um gestor consiga usar.
+Sou formado em Administração e atuo na área de dados, com bagagem em rotinas administrativas. Isso me ajuda a entender de onde os dados vêm dentro de uma empresa e a transformar uma pergunta de negócio em uma análise que um gestor consiga usar.
 
 Nos meus projetos eu documento o processo inteiro: o problema, a origem dos dados, a preparação, a análise e o que os resultados permitem concluir.
 
@@ -48,4 +46,4 @@ Cada repositório tem um README com contexto, método, resultados e como reprodu
 
 ## Contato
 
-Aberto a oportunidades como analista de dados. A forma mais rápida de falar comigo é pelo [LinkedIn](https://www.linkedin.com/in/pedro-arantes-oliveira/) ou por e-mail: pedroaranoliveira@gmail.com.
+Aberto a oportunidades. A forma mais rápida de falar comigo é pelo [LinkedIn](https://www.linkedin.com/in/pedro-arantes-oliveira/) ou por e-mail: pedroaranoliveira@gmail.com.
