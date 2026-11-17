@@ -31,11 +31,11 @@ Nos meus projetos eu documento o processo inteiro: o problema, a origem dos dado
 
 | Projeto | Ferramentas | Foco |
 |---|---|---|
-| [TheLook eCommerce](LINK-DO-REPOSITORIO) | SQL, BigQuery | Consultas analíticas em base pública de e-commerce, com notebook documentado |
-| [Superstore Analytics](LINK-DO-REPOSITORIO) | Looker Studio | Dashboard de desempenho comercial |
-| [Daikibo – tempo de parada](LINK-DO-REPOSITORIO) | Tableau | Análise de tempo de parada (downtime) |
-| [Dashboard de produtos de e-commerce](LINK-DO-REPOSITORIO) | Python, Dash, Plotly | Dashboard interativo de produtos |
-| [IPCA via API do Banco Central](LINK-DO-REPOSITORIO) | Python, requests, Parquet | Coleta automatizada de dados públicos por API |
+| [TheLook eCommerce](https://github.com/pedroarnts/thelook-ecommerce-bigquery-sql) | SQL, BigQuery | Consultas analíticas em base pública de e-commerce, com notebook documentado |
+| [Superstore Analytics](https://github.com/pedroarnts/superstore-analytics) | Looker Studio | Dashboard de desempenho comercial |
+| [Daikibo – tempo de parada](https://github.com/pedroarnts/daikibo-downtime-analysis) | Tableau | Análise de tempo de parada (downtime) |
+| [Dashboard de produtos de e-commerce](https://github.com/pedroarnts/dashboard-ecommerce) | Python, Dash, Plotly | Dashboard interativo de produtos |
+| [IPCA via API do Banco Central](https://github.com/pedroarnts/bcb-ipca) | Python, requests, Parquet | Coleta automatizada de dados públicos por API |
 
 Cada repositório tem um README com contexto, método, resultados e como reproduzir a análise.
 
